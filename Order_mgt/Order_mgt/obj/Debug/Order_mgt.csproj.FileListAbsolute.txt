@@ -1,0 +1,10 @@
+K:\c#programmm\Y3\Order_mgt\Order_mgt\bin\Debug\Order_mgt.exe.config
+K:\c#programmm\Y3\Order_mgt\Order_mgt\bin\Debug\Order_mgt.exe
+K:\c#programmm\Y3\Order_mgt\Order_mgt\bin\Debug\Order_mgt.pdb
+K:\c#programmm\Y3\Order_mgt\Order_mgt\obj\Debug\Order_mgt.csproj.AssemblyReference.cache
+K:\c#programmm\Y3\Order_mgt\Order_mgt\obj\Debug\Order_mgt.Form1.resources
+K:\c#programmm\Y3\Order_mgt\Order_mgt\obj\Debug\Order_mgt.Properties.Resources.resources
+K:\c#programmm\Y3\Order_mgt\Order_mgt\obj\Debug\Order_mgt.csproj.GenerateResource.cache
+K:\c#programmm\Y3\Order_mgt\Order_mgt\obj\Debug\Order_mgt.csproj.CoreCompileInputs.cache
+K:\c#programmm\Y3\Order_mgt\Order_mgt\obj\Debug\Order_mgt.exe
+K:\c#programmm\Y3\Order_mgt\Order_mgt\obj\Debug\Order_mgt.pdb
