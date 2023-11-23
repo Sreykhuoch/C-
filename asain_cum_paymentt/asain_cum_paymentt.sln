@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asain_cum_paymentt", "asain_cum_paymentt\asain_cum_paymentt.csproj", "{06E94D78-96B5-4399-935A-339683BFC1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E94D78-96B5-4399-935A-339683BFC1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E94D78-96B5-4399-935A-339683BFC1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E94D78-96B5-4399-935A-339683BFC1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E94D78-96B5-4399-935A-339683BFC1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BED80DE-1456-4FBB-9FFA-F6B5B2A20F7F}
+	EndGlobalSection
+EndGlobal

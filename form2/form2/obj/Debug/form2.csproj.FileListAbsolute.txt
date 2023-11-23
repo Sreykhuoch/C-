@@ -1,0 +1,10 @@
+K:\c#programmm\Y3\form2\form2\bin\Debug\form2.exe.config
+K:\c#programmm\Y3\form2\form2\bin\Debug\form2.exe
+K:\c#programmm\Y3\form2\form2\bin\Debug\form2.pdb
+K:\c#programmm\Y3\form2\form2\obj\Debug\form2.csproj.AssemblyReference.cache
+K:\c#programmm\Y3\form2\form2\obj\Debug\form2.Form1.resources
+K:\c#programmm\Y3\form2\form2\obj\Debug\form2.Properties.Resources.resources
+K:\c#programmm\Y3\form2\form2\obj\Debug\form2.csproj.GenerateResource.cache
+K:\c#programmm\Y3\form2\form2\obj\Debug\form2.csproj.CoreCompileInputs.cache
+K:\c#programmm\Y3\form2\form2\obj\Debug\form2.exe
+K:\c#programmm\Y3\form2\form2\obj\Debug\form2.pdb

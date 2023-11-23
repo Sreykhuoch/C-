@@ -1,0 +1,10 @@
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\bin\Debug\Employee_Managment.exe.config
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\bin\Debug\Employee_Managment.exe
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\bin\Debug\Employee_Managment.pdb
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\obj\Debug\Employee_Managment.csproj.AssemblyReference.cache
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\obj\Debug\Employee_Managment.Form1.resources
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\obj\Debug\Employee_Managment.Properties.Resources.resources
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\obj\Debug\Employee_Managment.csproj.GenerateResource.cache
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\obj\Debug\Employee_Managment.csproj.CoreCompileInputs.cache
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\obj\Debug\Employee_Managment.exe
+F:\c#Project\y3s1\c#\Employee_Managment\Employee_Managment\obj\Debug\Employee_Managment.pdb

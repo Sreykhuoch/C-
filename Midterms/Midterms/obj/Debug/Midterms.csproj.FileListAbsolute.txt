@@ -1,0 +1,10 @@
+E:\Midterm\Midterms\Midterms\bin\Debug\Midterms.exe.config
+E:\Midterm\Midterms\Midterms\bin\Debug\Midterms.exe
+E:\Midterm\Midterms\Midterms\bin\Debug\Midterms.pdb
+E:\Midterm\Midterms\Midterms\obj\Debug\Midterms.csproj.AssemblyReference.cache
+E:\Midterm\Midterms\Midterms\obj\Debug\Midterms.Form1.resources
+E:\Midterm\Midterms\Midterms\obj\Debug\Midterms.Properties.Resources.resources
+E:\Midterm\Midterms\Midterms\obj\Debug\Midterms.csproj.GenerateResource.cache
+E:\Midterm\Midterms\Midterms\obj\Debug\Midterms.csproj.CoreCompileInputs.cache
+E:\Midterm\Midterms\Midterms\obj\Debug\Midterms.exe
+E:\Midterm\Midterms\Midterms\obj\Debug\Midterms.pdb

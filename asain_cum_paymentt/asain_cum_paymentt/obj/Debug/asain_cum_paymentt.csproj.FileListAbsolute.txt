@@ -1,0 +1,11 @@
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\bin\Debug\asain_cum_paymentt.exe.config
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\bin\Debug\asain_cum_paymentt.exe
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\bin\Debug\asain_cum_paymentt.pdb
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\obj\Debug\asain_cum_paymentt.csproj.AssemblyReference.cache
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\obj\Debug\asain_cum_paymentt.Form1.resources
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\obj\Debug\asain_cum_paymentt.Properties.Resources.resources
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\obj\Debug\asain_cum_paymentt.csproj.GenerateResource.cache
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\obj\Debug\asain_cum_paymentt.csproj.CoreCompileInputs.cache
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\obj\Debug\asain_cum_paymentt.exe
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\obj\Debug\asain_cum_paymentt.pdb
+K:\c#programmm\Y3\asain_cum_paymentt\asain_cum_paymentt\obj\Debug\asain_cum_paymentt.Form2.resources
